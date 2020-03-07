@@ -1,0 +1,11 @@
+{
+  "name": "netlify_dev_crash_course_traversy",
+  "version": "1.0.0",
+  "description": "Following along Travery's Youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Monge",
+  "license": "ISC"
+}
