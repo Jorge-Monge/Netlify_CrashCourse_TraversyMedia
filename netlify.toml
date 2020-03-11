@@ -1,0 +1,4 @@
+# text in between brackets is a TOML section
+[build]
+publish = "dist"
+functions = "functions"
