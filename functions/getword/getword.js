@@ -1,3 +1,4 @@
+// 'random-words' was installed with NPM
 const randomWords = require("random-words");
 
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
